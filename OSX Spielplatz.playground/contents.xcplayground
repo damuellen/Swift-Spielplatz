@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='raw'>
+    <pages>
+        <page name='NSView &amp; NSButton'/>
+        <page name='Drawing Lock Axes'/>
+        <page name='Parsing JSON'/>
+        <page name='Closures'/>
+        <page name='MapView'/>
+        <page name='Parsing with AEXML'/>
+        <page name='Untitled Page'/>
+        <page name='Protocols'/>
+        <page name='Pattern Matching'/>
+        <page name='Loops'/>
+    </pages>
+</playground>

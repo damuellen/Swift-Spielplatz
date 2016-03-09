@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Stop Smoking'/>
+        <page name='One Liners'/>
+        <page name='Custom Operator'/>
+        <page name='AutoLayout'/>
+        <page name='PieChart'/>
+        <page name='Misc'/>
+        <page name='Collection View'/>
+        <page name='LoginStackView'/>
+        <page name='TableView'/>
+    </pages>
+</playground>
